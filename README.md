@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Analysis
+# E-Commerce-Sales-Analysis-Excel-Project
 Excel-based E-Commerce Sales Analysis Dashboard using Power Query &amp; Power Pivot
 
 
